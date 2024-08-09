@@ -14,6 +14,8 @@ public class User {
 	private String email;
 	private String role;
 	private int a;
+	private String extra;
+
 	
 	public User() {
 		
